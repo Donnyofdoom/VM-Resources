@@ -17,17 +17,17 @@ Prayer level & bonus for 9:30 of protect range (Set quick prayer to protect rang
 - 7:30 is also fine, but you will have to manage your prayer manually a little bit & bring a spare prayer potion for emergencies
 - Alternatively replace prospector with Proselyte for easy mode prayer
 - _*Seven (7) free inventory slots!*_
-- If you can buy/afford to use brews, replace the karambwans with them
+- If you are an iron that can't afford spending brews, replace them with what you have available, try to have at least 200HP of healing
 - Regen bracelet is nice to have but not required
-- If you can afford the loss of prayer bonus, HP Cape > Ardy Cape
-- Replace Stole with whatever your BiS prayer bonus item is
+- If you are struggling for prayer bonus replace HP Cape with Ardy Cape
+- Replace Dragonbone Necklace with whatever your BiS prayer bonus item is (Stole, Holy Symbol, Fury etc.)
 - Falador Shield(4) can act as your emergency prayer potion, though Holy Books (finished or not) and Broodoo Shields are all just as good (+5)
 - A quick way to restore HP/Prayer (Pool & House Teles/Con Cape, Desert Amulet 4, Ferox Tele etc.)
 - Numulite is for entering the mine, 30 is required to start, you will profit over time
 - *Keep a few VM teletabs in your bank in case of death!*
 - Auto retaliate _off!_
 
-![Example Ironman Gear Setup](Images/Gear.png)
+![Example BiS Gear Setup](Images/Gear.png)
 
 ### General Pathing
 A bulk of learning VM is learning how to path around and get to the places you need to go.
@@ -95,6 +95,9 @@ In Quads BC starts on the west side and goes south to B Vent, then joins A when 
 - At 5:15 if stability is below 50%, head to A Vent and prepare to check and fix A after the reset
 - If after the 5:00 reset there are three double digit drops in stability, flip A Chamber immediately
 - If the stability is already low before reset, mine rock 4 from the West side to be able to flip A faster
+
+#### Leech (5 person team)
+
 
 ### Duos
 Duos combine elements from Trio BCCF and BC roles.
