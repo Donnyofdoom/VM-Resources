@@ -7,7 +7,7 @@ Not a complete guide, intended to be used in conjunction with a experienced teac
 - 150 Museum Kudos
 - Have built the Fossil Island Museum Camp
 - The "Ultimate Volcanic Mine" plugin from plugin hub
-- Import the tile markers from the ![General Pathing](general-pathing) section
+- Import the tile markers from the ![General Pathing](README.md#general-pathing) section
 
 ### Gear Setup
 The goals for gear are XP bonus and prayer bonus, balance and replace gear based on needs and availability.
@@ -51,7 +51,7 @@ These will help remember where to lay down paths to get to where you need to go
 ```
 
 The map shows the location of the important features inside VM, and the tile markers give a guide on where/how to path to them.
-Where and when you need to path is based on your roll and covered in ![Roles](roles)
+Where and when you need to path is based on your roll and covered in ![Roles](README.md#roles)
 
 ![VM Features Map](Images/Map.png)
 
