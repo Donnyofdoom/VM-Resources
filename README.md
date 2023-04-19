@@ -1,5 +1,6 @@
 # VM Resources
 A complete set of condensed reference material for learning Volcanic Mine in OSRS
+
 Not a complete guide, intended to be used in conjunction with a experienced teachers
 
 ### Basic Requirements
