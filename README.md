@@ -1,7 +1,7 @@
 # VM Resources
 A complete set of condensed reference material for learning Volcanic Mine in OSRS
 
-Not a complete guide, intended to be used in conjunction with a experienced teachers
+Not a complete guide, intended to be used in conjunction with experienced teachers
 
 ### Basic Requirements
 - 50 Mining
@@ -17,7 +17,7 @@ Prayer level & bonus for 9:30 of protect range (Set quick prayer to protect rang
 - 7:30 is also fine, but you will have to manage your prayer manually a little bit & bring a spare prayer potion for emergencies
 - Alternatively replace prospector with Proselyte for easy mode prayer
 - _*Seven (7) free inventory slots!*_
-- If you are an iron that can't afford spending brews, replace them with what you have available, try to have at least 200HP of healing
+- If you are an iron that can't afford spending brews, replace them with what you have available, try to have at least 250HP of healing
 - Regen bracelet is nice to have but not required
 - If you are struggling for prayer bonus replace HP Cape with Ardy Cape
 - Replace Dragonbone Necklace with whatever your BiS prayer bonus item is (Stole, Holy Symbol, Fury etc.)
@@ -33,7 +33,7 @@ Prayer level & bonus for 9:30 of protect range (Set quick prayer to protect rang
 A bulk of learning VM is learning how to path around and get to the places you need to go.
 
 Import the tile markers by copying the text below to your clipboard, right clicking your ingame World Map Orb and clicking "Import Ground Markers"
-These will help remember where to lay down paths to get to where you need to go
+These will help highlight where to lay down paths to get to where you need to go
 ```
 [{"regionId":15262,"regionX":38,"regionY":19,"z":1,"color":"#FFFFFFFF"},{"regionId":15262,"regionX":37,"regionY":19,"z":1,"color":"#FFFFFFFF"},
 {"regionId":15262,"regionX":37,"regionY":35,"z":1,"color":"#FFFFFFFF"},{"regionId":15262,"regionX":36,"regionY":35,"z":1,"color":"#FFFFFFFF"},{"regionId":15262,"regionX":36,"regionY":29,"z":1,"color":"#FFFFFFFF"},{"regionId":15262,"regionX":35,"regionY":61,"z":1,"color":"#FFFFFFFF"},
@@ -70,14 +70,14 @@ A good first role to learn is the BCCF role
 ### Trios & Quads
 #### BCCF (B check, C fix) - Simple, good beginner role, lower XP/hr
 - Start on the East side
-- Path all the way south to B Vent and check it
+- Path all the way South to B Vent and check it
 - Mine rock until B/C places a platform, then join them on it and continue to mine
 - At the 5 minute reset, B/C will check Vent C, fix C Chamber if required
 - Last person to rock 4 places a new platform
 
 In Quads this role splits into BC and CF. BC does only the B check part, CF does only the C fixing part.
 
-In Quads BC starts on the west side and goes south to B Vent, then joins A when they arrive
+In Quads BC starts on the West side and goes South to B Vent, then joins A when they arrive
 #### B/C - Intermediate role, medium XP/hr
 - Start on the East side
 - Run North to B chamber and wait for BC to check Vent B. You may cap twice while waiting
@@ -89,7 +89,7 @@ In Quads BC starts on the west side and goes south to B Vent, then joins A when 
 #### A - Critical role, more complex/situational awareness required, best XP/hr
 - Start on the West side
 - Path West to Gas Chamber A, pick up the rock, then path South to Vent A and check it
-- Return to Chamber A, picking up another rock and capping until A Chamber is fixed and you are out of rocks
+- Return to Chamber A, picking up another rock and capping until A Chamber is fixed and you have used both rocks
 - Path South to rock 5 and begin mining
 - If stability drops below 100% at any point before and at 6:00, fix A Chamber (the plugin will notify you)
 - At 5:15 if stability is below 50%, head to A Vent and prepare to check and fix A after the reset
@@ -97,7 +97,7 @@ In Quads BC starts on the west side and goes south to B Vent, then joins A when 
 - If the stability is already low before reset, mine rock 4 from the West side to be able to flip A faster
 
 #### Leech (5 person team)
-
+-- TODO
 
 ### Duos
 Duos combine elements from Trio BCCF and BC roles.
